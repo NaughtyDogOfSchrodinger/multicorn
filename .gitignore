@@ -1,0 +1,12 @@
+*.sw?
+tags
+*.so
+*.o
+*egg-info
+sql/multicorn--*.sql
+*.pyc
+/build
+/dist
+/results
+doc/_build
+doc/dist

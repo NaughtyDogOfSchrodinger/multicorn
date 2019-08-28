@@ -1,0 +1,1 @@
+../../test-2.7/sql/multicorn_regression_test.sql
